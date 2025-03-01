@@ -1,0 +1,17 @@
+Topics in DP-I must for interviews
+Bottom Up DP
+classical DP Problems
+Multidimensional DP
+Grid DP
+DP on trees
+Digit DP
+DP on graphs
+
+Topics in DP must for competetive programming
+Sum over subsets(SOS) DP
+DP evaluation using Matrix Exponentitaion
+DP with bitmasking
+DP with optimization using prefix/suffix sums
+DP optimization using Range query DS
+DP optimization using Convex Hull Trick
+Exchange argument Dynamic Programming

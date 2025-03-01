@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+/*
+    List STL example- Adjacency List for Weight Graph 
+    Here we have to make an array of list to store the vertices in the graph
+    list<T> l; Single list object
+    list<T> l[100]; We want to create a "list array"
+    So Here I want to create list<pair<int,int>> l;
+    So If I want five list
+    list<pair<int,int>> l[5];
+    But If I want to create a dynamic list
+    list<pair<int,int>> *l;
+
+*/
+int main() {
+    // List of Create a Graph Data structure
+    list<pair<int,int>> *l;
+    int n;
+    cin>>n;
+
+    l = new list<pair<int,int>>[n];
+    return 0;
+}
